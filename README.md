@@ -9,9 +9,9 @@ This repository only includes the Google Sheets programmation using Google App S
 Since there might be extensive tweaking of the project, this version is saved as an initial working version.
 
 ## So the project works?
-It works when the webapp is deployed by my personal email (1) and when 'Anyone' is set to use it (2)
-But as we moved to a new Venture Labs Google Workspace, we found that my work email can deploy it (1) but 'Only Unternehmertum Members' can use it (2).
-Solution: we need to create a new email to deploy it (1) and find a way for 'Anyone' or at least Qualtrics to use it (2). 
+- It works when the webapp is deployed by my personal email (1) and when 'Anyone' is set to use it (2)
+- But as we moved to a new Venture Labs Google Workspace, we found that my work email can deploy it (1) but 'Only Unternehmertum Members' can use it (2).
+- Solution Suggestion: we need to create a new email to deploy it (1) and find a way for 'Anyone' or at least Qualtrics to use it (2). 
 
 Thank you to the UTUM IT for all your help so far.
 
