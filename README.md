@@ -17,7 +17,8 @@ Since there might be extensive tweaking of the project, this version is saved as
 - But as we moved to a new Venture Labs Google Workspace, we found that my work email can deploy it (1) but 'Only Unternehmertum Members' can use it (2).
 - Solution Suggestion: we need to create a new email to deploy it (1) and find a way for 'Anyone' or at least Qualtrics to use it (2). 
 
-Thank you to Stefano Cutuli and Lucia Lara being equally enthusiastic about this project, and to the UTUM IT for all your help so far. 
+## Thank you
+To Stefano Cutuli and Lucia Lara for letting me assist with this project, and best of luck to Alex with the final touches ! 
 
 ## Link to Google Sheets
 
