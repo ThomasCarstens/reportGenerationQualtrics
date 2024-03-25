@@ -2,8 +2,12 @@
 
 ## What is this?
 
-Workflow: Qualtrics survey filled by all coaches -> The last coach clicks on 'Generate Report' -> Report is sent to email that corresponds to their lab.
-This repository only includes the Google Sheets programmation using Google App Scripts. 
+Workflow: 
+- Qualtrics survey filled by all coaches 
+- The last coach clicks on 'Generate Report'
+- Report is sent to email that corresponds to their lab.
+  
+**This repository only includes the Google Sheets programmation using Google App Scripts. This programmation generates and sends the report automatically when the coach clicks on 'Generate Report'.**
 
 ## Why is this here?
 Since there might be extensive tweaking of the project, this version is saved as an initial working version.
