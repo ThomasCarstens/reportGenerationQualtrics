@@ -18,7 +18,7 @@ Since there might be extensive tweaking of the project, this version is saved as
 - Solution Suggestion: we need to create a new email to deploy it (1) and find a way for 'Anyone' or at least Qualtrics to use it (2). 
 
 ## Thank you
-To Stefano Cutuli and Lucia Lara for letting me join their Focus Team, and best of luck to Alex with the final touches ! 
+To Stefano and Lucia for letting me join their Focus Team, and best of luck to Alex with the final touches ! 
 
 ## Link to Google Sheets
 
