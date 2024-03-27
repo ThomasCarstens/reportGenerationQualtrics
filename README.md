@@ -23,6 +23,7 @@ To Stefano and Lucia for letting me join their Focus Team, and best of luck to A
 ## Link to Google Sheets
 
 As of now the Google Sheet that is associated to the project is stored on the Sustainability Venture Lab's Google Workspace here: https://docs.google.com/spreadsheets/d/1xr4f3sH_19781VnWFZS36aV3CzNGDx6xMj5cvJvXt3U/edit#gid=740621811
+A backup is stored here in case: `18.03 FORM.xlsx`
 
 
 Thomas
